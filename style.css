@@ -1,0 +1,26 @@
+body { 
+    font-family: "garamond"; 
+    background: url('https://pbs.twimg.com/media/Efu7w8FWkAM6XDk.jpg') repeat center center fixed; 
+}
+
+.titulo {
+    background-color: rgba(250, 235, 215, 0.7); 
+    width: 50%;
+}
+
+ .tittulo{
+    background-color: silver
+
+}
+.receipt { font-family: Courier, "Lucida Console", monospace }
+@font-face {
+    font-family: garamond;
+    src: url('./fonts/EBGaramond-Regular.ttf'); 
+  
+}
+.center {
+    text-align: center;
+}
+
+
+ 
