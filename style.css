@@ -1,7 +1,16 @@
 body { 
+    position: relative;
     font-family: "garamond"; 
     background: url('https://pbs.twimg.com/media/Efu7w8FWkAM6XDk.jpg') repeat center center fixed; 
 }
+
+
+#tittulo { 
+    position: fixed; 
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+ }
 
 .titulo {
     background-color: rgba(245, 237, 228, 0.7); 
